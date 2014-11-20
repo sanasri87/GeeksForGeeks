@@ -14,10 +14,6 @@ public class LinkedListNode<T> {
 		return data;
 	}
 
-	public void setData(T data) {
-		this.data = data;
-	}
-
 	public LinkedListNode<T> getNext() {
 		return next;
 	}
